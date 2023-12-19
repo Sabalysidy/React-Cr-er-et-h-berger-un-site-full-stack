@@ -1,0 +1,20 @@
+1- Créer le projet node command [npm init]
+2- Créer un server avec express.js
+3- Installer le compilateur Babel
+4- Relancer le serveur automatiquement avec nodemon
+5- Comprendre pourquoi utiliser une base de donnée  NoSQL
+6- Découvrir l'interface utilisateur de MongoDB Atlas
+7- Selectionner un cluster et un fournisseur cloud
+8- Créer une nouvelle base de donnée et une collection
+9- Installer compass et ajouter de nouveaux documents
+10- Installer MongoDB Node.js driver et se connecter à la base de données
+11- Créer des variables d'environnement
+12- Prendre en main les opérations CRUD
+13- Définir les méthodes de routage avec GET
+14- Définir les méthodes de routage avec POST
+15- Installer Postman et tester son API
+16- Découvrir les cas d'utilisation de React.js
+17- Installer l'outil React CLI et créer un nouveau projet
+18- Découvrir l'anatomie d'une application React
+19- Installer les outils de développement sur Chrome et Firefox
+20- Installer react-router
