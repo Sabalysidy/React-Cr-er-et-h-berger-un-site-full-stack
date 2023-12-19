@@ -1,4 +1,4 @@
-import express from "express";
+import express from "exprss";
 import dotenv from "dotenv";
 import { MongoClient, ServerApiVersion } from "mongodb";
 
